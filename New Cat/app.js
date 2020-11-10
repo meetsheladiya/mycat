@@ -8,7 +8,7 @@ var img=document.querySelector("img");
 var i=1;
 
 btn.addEventListener("click", function(){
-	if(i==3)
+	if(i==4)
 	{
 		i=0;
 	}
